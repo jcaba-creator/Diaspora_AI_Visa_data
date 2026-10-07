@@ -4119,7 +4119,7 @@
         "evisa": true,
         "onArrival": false,
         "multipleEntry": false,
-        "notes": "Electronic Travel Authorization (ETA) required. Apply online before travel. Usually processed within 72 hours."
+        "notes": "Kenya Electronic Travel Authorization (ETA) is mandatory for all foreign travelers before departure. Apply online via the official portal at etakenya.go.ke. Standard processing takes 3 business days ($32.50 USD processing fee)."
       },
       "documents": {
         "passport": {
@@ -4145,10 +4145,10 @@
       "meta": {
         "riskLevel": "medium",
         "confidence": "verified",
-        "lastChecked": "2026-01-19",
-        "source": "passport-index-dataset"
+        "lastChecked": "2026-10-06",
+        "source": "https://www.etakenya.go.ke/"
       },
-      "lastUpdated": "2026-01-19T03:59:12.4"
+      "lastUpdated": "2026-10-06T00:00:00.000"
     },
     {
       "to": {

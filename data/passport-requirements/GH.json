@@ -4315,14 +4315,14 @@
       ],
       "visa": {
         "required": true,
-        "policy": "evisa",
+        "policy": "eta",
         "type": "eTA (Electronic Travel Authorization)",
         "freeDays": null,
         "maxStay": 90,
         "evisa": true,
         "onArrival": false,
         "multipleEntry": true,
-        "notes": "Kenya now uses eTA system. Apply online at etakenya.go.ke before travel. Policy changed in 2024."
+        "notes": "Kenya Electronic Travel Authorization (ETA) is mandatory for all foreign travelers before departure. Apply online via the official portal at etakenya.go.ke. Standard processing takes 3 business days ($32.50 USD processing fee)."
       },
       "documents": {
         "passport": {
@@ -4347,11 +4347,11 @@
       },
       "meta": {
         "riskLevel": "low",
-        "confidence": "unverified",
-        "lastChecked": null,
-        "source": null
+        "confidence": "verified",
+        "lastChecked": "2026-10-06",
+        "source": "https://www.etakenya.go.ke/"
       },
-      "lastUpdated": "2025-12-14T01:57:39.727631"
+      "lastUpdated": "2026-10-06T00:00:00.000"
     },
     {
       "to": {

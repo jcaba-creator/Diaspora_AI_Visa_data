@@ -4295,7 +4295,7 @@
         "evisa": false,
         "onArrival": false,
         "multipleEntry": false,
-        "notes": null
+        "notes": "Citizens of East African Community (EAC) partner states are exempt from the Kenya Electronic Travel Authorization (ETA) and can enter Kenya visa-free with a valid passport."
       },
       "documents": {
         "passport": {
@@ -4320,11 +4320,11 @@
       },
       "meta": {
         "riskLevel": "medium",
-        "confidence": "unverified",
-        "lastChecked": null,
-        "source": "passport-index-dataset"
+        "confidence": "verified",
+        "lastChecked": "2026-10-06",
+        "source": "https://www.etakenya.go.ke/"
       },
-      "lastUpdated": "2026-01-19T04:15:30.821665"
+      "lastUpdated": "2026-10-06T00:00:00.000"
     },
     {
       "to": {

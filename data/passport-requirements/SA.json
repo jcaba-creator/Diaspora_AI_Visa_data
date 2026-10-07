@@ -4287,15 +4287,15 @@
         "tourism"
       ],
       "visa": {
-        "required": false,
-        "policy": "evisa",
+        "required": true,
+        "policy": "eta",
         "type": null,
         "freeDays": null,
         "maxStay": null,
         "evisa": true,
         "onArrival": false,
         "multipleEntry": false,
-        "notes": null
+        "notes": "Kenya Electronic Travel Authorization (ETA) is mandatory for all foreign travelers before departure. Apply online via the official portal at etakenya.go.ke. Standard processing takes 3 business days ($32.50 USD processing fee)."
       },
       "documents": {
         "passport": {
@@ -4320,11 +4320,11 @@
       },
       "meta": {
         "riskLevel": "medium",
-        "confidence": "unverified",
-        "lastChecked": null,
-        "source": "passport-index-dataset"
+        "confidence": "verified",
+        "lastChecked": "2026-10-06",
+        "source": "https://www.etakenya.go.ke/"
       },
-      "lastUpdated": "2026-01-19T04:09:42.651982"
+      "lastUpdated": "2026-10-06T00:00:00.000"
     },
     {
       "to": {
