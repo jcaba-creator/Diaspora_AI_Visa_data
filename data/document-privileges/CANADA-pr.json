@@ -1,0 +1,156 @@
+﻿{
+  "document": {
+    "type": "permanent_residence",
+    "country": "CA",
+    "countryName": "Canada",
+    "categories": [
+      "Permanent Resident Card (PR Card)",
+      "Permanent Resident Travel Document (PRTD)"
+    ],
+    "description": "Lawful Permanent Resident status in Canada grants visa-free, simplified, or transit exemption privileges to multiple international jurisdictions."
+  },
+  "lastUpdated": "2026-10-06",
+  "totalUnlocked": 10,
+  "unlocks": [
+    {
+      "country": "MX",
+      "countryName": "Mexico",
+      "region": "north_america",
+      "conditions": "Valid, unexpired Canadian Permanent Resident Card + valid passport",
+      "maxStayDays": 180,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://www.inm.gob.mx/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Foreign nationals who have permanent resident status in Canada do not require a Mexican tourist visa for stays up to 180 days."
+    },
+    {
+      "country": "CR",
+      "countryName": "Costa Rica",
+      "region": "central_america",
+      "conditions": "Canadian Permanent Resident Card valid for at least 6 months",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://www.migracion.go.cr/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Holders of a Canadian Permanent Resident Card are exempt from consular entry visa requirements for tourism stays up to 30 days."
+    },
+    {
+      "country": "BZ",
+      "countryName": "Belize",
+      "region": "central_america",
+      "conditions": "Valid Canadian Permanent Resident Card presented upon arrival",
+      "maxStayDays": 30,
+      "visaOnArrival": true,
+      "source": {
+        "url": "https://ins.gov.bz/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Permanent residents of Canada may enter Belize without a prior visa or receive entry clearance on arrival for tourism up to 30 days."
+    },
+    {
+      "country": "GE",
+      "countryName": "Georgia",
+      "region": "europe_asia",
+      "conditions": "Valid Canadian Permanent Resident Card + valid travel document",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://www.geoconsul.gov.ge/HtmlPage/Html/View?id=956",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Holders of valid permanent residence permits from Canada may enter Georgia without a visa for an aggregate stay of up to 90 days within any 180-day period."
+    },
+    {
+      "country": "AL",
+      "countryName": "Albania",
+      "region": "europe",
+      "conditions": "Valid, unexpired Canadian permanent residence permit",
+      "maxStayDays": 90,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://punetejashtme.gov.al/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Foreign nationals who hold a valid permanent residence permit issued by Canada can enter Albania without a visa for up to 90 days within 180 days."
+    },
+    {
+      "country": "ME",
+      "countryName": "Montenegro",
+      "region": "europe",
+      "conditions": "Valid Canadian Permanent Resident Card",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://www.gov.me/en/mvp",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Holders of permanent residence permits in Canada may enter and stay in Montenegro without a visa for up to 30 days."
+    },
+    {
+      "country": "DO",
+      "countryName": "Dominican Republic",
+      "region": "caribbean",
+      "conditions": "Valid Canadian PR Card + valid passport",
+      "maxStayDays": 30,
+      "visaOnArrival": true,
+      "source": {
+        "url": "https://migracion.gob.do/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Any traveler with legal permanent residence in Canada may enter the Dominican Republic with a Tourist Card without requiring a consular visa."
+    },
+    {
+      "country": "PA",
+      "countryName": "Panama",
+      "region": "central_america",
+      "conditions": "Canadian Permanent Resident Card valid for at least 6 months + passport",
+      "maxStayDays": 30,
+      "visaOnArrival": false,
+      "source": {
+        "url": "https://www.migracion.gob.pa/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Executive Decree exempts holders of permanent residence in Canada from requiring a tourist visa for stays up to 30 days."
+    },
+    {
+      "country": "SG",
+      "countryName": "Singapore",
+      "region": "asia",
+      "conditions": "Transit to/from third country with onward flight within 96 hours",
+      "maxStayDays": 4,
+      "visaOnArrival": true,
+      "source": {
+        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Qualifying nationals holding a valid Canadian Permanent Resident Card may enter Singapore visa-free under the 96-hour Visa Free Transit Facility (VFTF)."
+    },
+    {
+      "country": "KR",
+      "countryName": "South Korea",
+      "region": "asia",
+      "conditions": "In transit to or from Canada with confirmed onward flight within 30 days",
+      "maxStayDays": 30,
+      "visaOnArrival": true,
+      "source": {
+        "url": "https://www.hikorea.go.kr/",
+        "accessedDate": "2026-10-06",
+        "confidence": "verified"
+      },
+      "notes": "Eligible nationals holding a Canadian Permanent Resident Card and transiting through South Korea directly to/from Canada are granted visa-free entry for up to 30 days."
+    }
+  ]
+}
