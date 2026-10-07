@@ -1,4 +1,4 @@
-﻿{
+{
   "document": {
     "type": "visa",
     "country": "EU-SCHENGEN",
@@ -10,7 +10,7 @@
     "description": "A valid multiple-entry Schengen visa or national long-stay visa grants visa-free, simplified, or electronic visa entry privileges to multiple non-Schengen jurisdictions worldwide."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 11,
+  "totalUnlocked": 10,
   "unlocks": [
     {
       "country": "MX",
@@ -123,20 +123,6 @@
         "confidence": "verified"
       },
       "notes": "Third-country nationals holding a valid multiple-entry Schengen Category C visa are exempted from Cyprus national visa requirements for up to 90 days in 180 days."
-    },
-    {
-      "country": "BG",
-      "countryName": "Bulgaria",
-      "region": "europe",
-      "conditions": "Valid double or multiple-entry Schengen visa",
-      "maxStayDays": 90,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Holders of valid Schengen visas enjoy mutual visa-free entry privileges in accordance with European Council decisions up to 90 days in 180 days."
     },
     {
       "country": "TR",
