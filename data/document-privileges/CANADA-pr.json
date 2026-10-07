@@ -1,4 +1,4 @@
-﻿{
+{
   "document": {
     "type": "permanent_residence",
     "country": "CA",
@@ -10,7 +10,7 @@
     "description": "Lawful Permanent Resident status in Canada grants visa-free, simplified, or transit exemption privileges to multiple international jurisdictions."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 10,
+  "totalUnlocked": 9,
   "unlocks": [
     {
       "country": "MX",
@@ -123,20 +123,6 @@
         "confidence": "verified"
       },
       "notes": "Executive Decree exempts holders of permanent residence in Canada from requiring a tourist visa for stays up to 30 days."
-    },
-    {
-      "country": "SG",
-      "countryName": "Singapore",
-      "region": "asia",
-      "conditions": "Transit to/from third country with onward flight within 96 hours",
-      "maxStayDays": 4,
-      "visaOnArrival": true,
-      "source": {
-        "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa-free-transit-facility",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Qualifying nationals holding a valid Canadian Permanent Resident Card may enter Singapore visa-free under the 96-hour Visa Free Transit Facility (VFTF)."
     },
     {
       "country": "KR",
