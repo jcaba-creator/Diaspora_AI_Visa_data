@@ -1,6 +1,6 @@
 {
   "document": {
-    "type": "permanent_residence",
+    "type": "green_card",
     "country": "US",
     "countryName": "United States",
     "categories": [
@@ -10,133 +10,49 @@
     "description": "Lawful Permanent Resident status in the United States grants visa-free or simplified entry privileges to multiple international jurisdictions."
   },
   "lastUpdated": "2026-10-06",
-  "totalUnlocked": 9,
+  "totalUnlocked": 2,
   "unlocks": [
     {
       "country": "CA",
       "countryName": "Canada",
       "region": "north_america",
-      "conditions": "Valid US Permanent Resident Card (Green Card) + valid passport",
+      "conditions": "Lawful permanent resident of the United States holding a valid Green Card and valid passport from country of citizenship",
       "maxStayDays": 180,
       "visaOnArrival": false,
+      "navigation_path": "Home > Immigration and citizenship > Visit Canada > Entry requirements",
+      "official_quote": "As a lawful permanent resident of the United States you don't need a visa or eTA to travel to Canada. When travelling to Canada, you must travel with your United States green card and a valid passport from your country of citizenship.",
+      "exactQuote": "As a lawful permanent resident of the United States you don't need a visa or eTA to travel to Canada. When travelling to Canada, you must travel with your United States green card and a valid passport from your country of citizenship.",
       "source": {
-        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#us-pr",
+        "url": "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/eta-work-visa-mexico.html",
         "accessedDate": "2026-10-06",
+        "governmentDomain": true,
+        "verificationPath": "Home > Immigration and citizenship > Visit Canada > Entry requirements",
+        "exactQuote": "As a lawful permanent resident of the United States you don't need a visa or eTA to travel to Canada. When travelling to Canada, you must travel with your United States green card and a valid passport from your country of citizenship.",
+        "official_quote": "As a lawful permanent resident of the United States you don't need a visa or eTA to travel to Canada. When travelling to Canada, you must travel with your United States green card and a valid passport from your country of citizenship.",
         "confidence": "verified"
       },
-      "notes": "US permanent residents are exempt from the eTA requirement and can enter visa-free with their Green Card and passport."
+      "notes": "US permanent residents are exempt from the eTA and visa requirements to travel to Canada."
     },
     {
       "country": "MX",
       "countryName": "Mexico",
       "region": "north_america",
-      "conditions": "Valid, unexpired US Permanent Resident Card + valid passport",
+      "conditions": "Permanent resident of the United States (Green Card holder) + valid passport",
       "maxStayDays": 180,
       "visaOnArrival": false,
+      "navigation_path": "Inicio > Visas para extranjeros > Visa Exemptions",
+      "official_quote": "United States citizens and foreigners who are permanent residents (green card holders) or with a valid visa stamped on their passports, do not require a visa to travel to Mexico on tourism or non paid activities and stay up to 180 days.",
+      "exactQuote": "United States citizens and foreigners who are permanent residents (green card holders) or with a valid visa stamped on their passports, do not require a visa to travel to Mexico on tourism or non paid activities and stay up to 180 days.",
       "source": {
-        "url": "https://www.inm.gob.mx/",
+        "url": "https://consulmex.sre.gob.mx/sacramento/index.php/visas-para-extranjeros",
         "accessedDate": "2026-10-06",
+        "governmentDomain": true,
+        "verificationPath": "Inicio > Visas para extranjeros > Visa Exemptions",
+        "exactQuote": "United States citizens and foreigners who are permanent residents (green card holders) or with a valid visa stamped on their passports, do not require a visa to travel to Mexico on tourism or non paid activities and stay up to 180 days.",
+        "official_quote": "United States citizens and foreigners who are permanent residents (green card holders) or with a valid visa stamped on their passports, do not require a visa to travel to Mexico on tourism or non paid activities and stay up to 180 days.",
         "confidence": "verified"
       },
-      "notes": "Foreign nationals with lawful permanent resident status in the US do not require a Mexican tourist visa for stays up to 180 days."
-    },
-    {
-      "country": "CR",
-      "countryName": "Costa Rica",
-      "region": "central_america",
-      "conditions": "US Permanent Resident Card valid for at least 6 months",
-      "maxStayDays": 30,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://www.migracion.go.cr/",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "US Green Card holders are exempt from consular entry visa requirements for tourism stays up to 30 days."
-    },
-    {
-      "country": "BZ",
-      "countryName": "Belize",
-      "region": "central_america",
-      "conditions": "Valid US Permanent Resident Card presented upon arrival",
-      "maxStayDays": 30,
-      "visaOnArrival": true,
-      "source": {
-        "url": "https://ins.gov.bz/",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Permanent residents of the United States can enter Belize visa-free or obtain entry clearance on arrival for tourism up to 30 days."
-    },
-    {
-      "country": "GE",
-      "countryName": "Georgia",
-      "region": "europe_asia",
-      "conditions": "Valid US Permanent Resident Card + valid travel document",
-      "maxStayDays": 90,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://www.geoconsul.gov.ge/HtmlPage/Html/View?id=956",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Holders of valid permanent residence permits from the US may enter Georgia without a visa for an aggregate stay of up to 90 days within any 180-day period."
-    },
-    {
-      "country": "AL",
-      "countryName": "Albania",
-      "region": "europe",
-      "conditions": "Valid, unexpired US Permanent Resident Card",
-      "maxStayDays": 90,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://punetejashtme.gov.al/",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Foreign nationals who hold a valid permanent residence permit issued by the US can enter Albania without a visa for up to 90 days within 180 days."
-    },
-    {
-      "country": "ME",
-      "countryName": "Montenegro",
-      "region": "europe",
-      "conditions": "Valid US Permanent Resident Card",
-      "maxStayDays": 30,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://www.gov.me/en/mvp",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Holders of permanent residence permits in the United States may enter and stay in Montenegro visa-free for up to 30 days."
-    },
-    {
-      "country": "DO",
-      "countryName": "Dominican Republic",
-      "region": "caribbean",
-      "conditions": "Valid US Green Card + valid passport",
-      "maxStayDays": 30,
-      "visaOnArrival": true,
-      "source": {
-        "url": "https://migracion.gob.do/",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Any person who has legal residence in the US can enter the Dominican Republic with a Tourist Card without needing a consular visa."
-    },
-    {
-      "country": "PA",
-      "countryName": "Panama",
-      "region": "central_america",
-      "conditions": "US Permanent Resident Card valid for at least 6 months + passport",
-      "maxStayDays": 30,
-      "visaOnArrival": false,
-      "source": {
-        "url": "https://www.migracion.gob.pa/",
-        "accessedDate": "2026-10-06",
-        "confidence": "verified"
-      },
-      "notes": "Executive Decree exempts foreign nationals holding permanent residence in the US from requiring a tourist visa for stays up to 30 days."
+      "notes": "Foreign permanent residents of the US do not require a visa for tourism or non-remunerated activities up to 180 days."
     }
   ]
 }
